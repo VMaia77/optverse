@@ -20,23 +20,23 @@ While the current version emphasizes the continuous genetic algorithm, the long-
 
 To begin using OptVerse, follow these steps:
 
-1. **Clone the OptVerse project:**
+1. Clone the OptVerse project:
 
    ```bash
    git clone https://github.com/your-username/optverse.git
    ```
 
-2. **Clone the OptVerse project:**
+2. Navigate to the project directory:
     ```bash
     cd optverse
     ```
 
-3. **Install the required dependencies:**
+3. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
 
-4. **Install the required dependencies:**
+4. Install the required dependencies:
     
     Refer to the examples provided in the docs directory. Experiment, provide feedback, and contribute to the project's development.
 
