@@ -106,3 +106,4 @@ def test_cga_constraint():
     solution = optimizer.optimize(100, save_history=False)
     assert solution['eval'] > cval, 'Problem in test_cga_constraint'
     assert solution['is_feasible'], 'Problem in test_cga_constraint'
+
