@@ -4,7 +4,7 @@ OptVerse is a python library designed for optimization with a primary focus on p
 
 ### Key Features
 
-- Continuous Genetic Algorithm: OptVerse currently features a implementation of the continuous genetic algorithm, providing an solution for continuos optimization problems.
+- Continuous Genetic Algorithm: OptVerse currently features a implementation of the continuous genetic algorithm, providing an solution for continuous optimization problems.
 
 - Object-Oriented Interface: Built on an object-oriented interface, OptVerse is flexible and customizable. This allows to adapt the library to specific optimization needs and experiment with different approaches.
 
